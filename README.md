@@ -1,2 +1,5 @@
 # Analysis-Of-Covid-Numbers
-This project about Covid-19 Numbers such as death numbers, countries and vaccinations. 
+In this project, a COVID-19 analysis is carried out using various tools to improve myself in the field of data analysis.
+Data analysis and visualization studies were carried out using SQL, Tableau, Python technologies.
+
+Link to Dataset : https://ourworldindata.org/covid-deaths
